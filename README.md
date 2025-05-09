@@ -31,7 +31,7 @@ BlastCombine/
 │   └── sessions/        # Сессии Telegram-аккаунтов
 ├── .env.example         # Шаблон переменных окружения
 ├── requirements.txt     # Зависимости
-├── main.py              # Точка входа
+├── run.py              # Точка входа
 └── README.md            # Этот файл
 ```
 
