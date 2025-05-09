@@ -4,7 +4,7 @@
 
 ```bash
 # Клонируй репозиторий
-git clone ссылка
+git clone https://github.com/aelita1138/BlastCombine.git
 cd BlastCombine
 
 # Установи зависимости
